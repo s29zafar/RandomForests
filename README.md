@@ -16,6 +16,9 @@ more models with even better performance, but many of those are sensitive to get
 There is likely room for further improvement, but this is a big improvement over the best decision tree accuracy percentage of :
 ## 99.763%.
 
+<img width="516" alt="Screenshot 2023-07-24 at 5 51 07 PM" src="https://github.com/s29zafar/RandomForests/assets/69566994/bd989de4-ea32-460f-9db6-60602bfe742a">
+
+
 There are parameters which allow you to change the performance of the Random Forest much as we changed the maximum depth of the 
 single decision tree. But one of the best features of Random Forest models is that they generally work reasonably even without this 
 tuning.
