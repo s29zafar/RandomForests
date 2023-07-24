@@ -22,3 +22,6 @@ There is likely room for further improvement, but this is a big improvement over
 There are parameters which allow you to change the performance of the Random Forest much as we changed the maximum depth of the 
 single decision tree. But one of the best features of Random Forest models is that they generally work reasonably even without this 
 tuning.
+
+A great article to learn about Random Forest is an article form the IBM article below:
+https://www.ibm.com/topics/random-forest#:~:text=Random%20forest%20is%20a%20commonly,both%20classification%20and%20regression%20problems.
