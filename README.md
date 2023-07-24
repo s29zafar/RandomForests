@@ -13,7 +13,7 @@ The random forest uses many trees, and it predicts by averaging the predictions 
 better predictive accuracy than a single decision tree and it works well with default parameters. If you keep modelling, you can learn 
 more models with even better performance, but many of those are sensitive to getting the right parameters.
 
-There is likely room for further improvement, but this is a big improvement over the best decision tree accuracy percentage of 
+There is likely room for further improvement, but this is a big improvement over the best decision tree accuracy percentage of :
 ## 99.763%.
 
 There are parameters which allow you to change the performance of the Random Forest much as we changed the maximum depth of the 
